@@ -33,8 +33,7 @@
             alt="dotnet" width="50" height="50" /> </a>&nbsp;&nbsp;&nbsp;
     <a href="https://git-scm.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" />
-    </a>&nbsp;&nbsp;&nbsp;
-    
+    </a>&nbsp;&nbsp;&nbsp;    
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="50" height="50" /> </a>&nbsp;&nbsp;&nbsp;
