@@ -45,8 +45,6 @@ I feel lucky to had found chances to work with lots of lovely people from differ
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />  
 </div>
 
- 
-
 <br/>  
 
 
@@ -72,7 +70,10 @@ I feel lucky to had found chances to work with lots of lovely people from differ
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+- 🧬 [How to push Docker Postgres image with persistent data?](https://seration.medium.com/how-to-push-docker-postgres-image-with-persistent-data-777783df09cb)
+<br>You have a develop environment in your local machine and using the docker Postgres container as your local database. After a while, you thought that those data are important... 
+
+- 📡 [How To Create And Deploy A Serverless Function On Azure With .Net Core](https://seration.medium.com/how-to-create-and-deploy-a-serverless-function-on-azure-with-net-core-3f22b8020bbe) <br> Today we are going to analyze Serverless Functions In Azure. But firstly it s good to learn what is Serverless. Let’s start... 
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
