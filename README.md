@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://media.giphy.com/media/d5qLz8YjtGy5y/giphy.gif" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/hgttC8kbDWYQU/giphy.gif" align="center" style="width: 100%" />
 </div>  
   
-
+<br/>  <br/>  
 ### <div align="center">A passionate full-stack developer developer 👨‍💻 working remotely</div>  
   
 
@@ -53,9 +53,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 </div>
 
-
-
-
 </td></tr></table>  
 
 <br/>  
@@ -76,7 +73,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=seration&show_icons=true&count_private=true&hide_border=true&bg_color=0d1116" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=seration&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
 
 <br/>  
 
