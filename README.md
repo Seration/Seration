@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/cOiKbCtrbXqVi/giphy.gif" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/d5qLz8YjtGy5y/giphy.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -76,7 +76,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=seration&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=seration&show_icons=true&count_private=true&hide_border=true&bg_color=0d1116" align="center" /></div>  
 
 <br/>  
 
@@ -89,15 +89,3 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
   
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
