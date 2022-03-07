@@ -27,7 +27,7 @@ I feel lucky to had found chances to work with lots of lovely people from differ
 ## What Do I Use  
 
  
-<div align="center">
+<div align="left">
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -68,18 +68,19 @@ I feel lucky to had found chances to work with lots of lovely people from differ
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=seration&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=seration&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
 
 <br/>  
 
 
 ## Recent Blog Posts  
+<div align="left">
 <!-- BLOG-POST-LIST:START -->  
 - 🧬 [How to push Docker Postgres image with persistent data?](https://seration.medium.com/how-to-push-docker-postgres-image-with-persistent-data-777783df09cb)
 <br>You have a develop environment in your local machine and using the docker Postgres container as your local database. After a while, you thought that those data are important... 
-
+<br/> <br/> 
 - 📡 [How To Create And Deploy A Serverless Function On Azure With .Net Core](https://seration.medium.com/how-to-create-and-deploy-a-serverless-function-on-azure-with-net-core-3f22b8020bbe) <br> Today we are going to analyze Serverless Functions In Azure. But firstly it s good to learn what is Serverless. Let’s start... 
 <!-- BLOG-POST-LIST:END -->  
-
-<br/>  
+</div> 
+ 
 
