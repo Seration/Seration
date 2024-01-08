@@ -8,9 +8,11 @@ A passionate full-stack developer developer 👨‍💻 <br><br>
 I feel lucky to had found chances to work with lots of lovely people from different cultures in different countries. I've been mostly worked on C#, .Net stack during my work life and now also improving myself on with React Native to create mobile applications. I like to learn something new every day to be a better developer. ☄️</div>  
 <br/>
 
-- 🔭  I’m currently working on [Simpliciter](https://simpliciter.io) and [Tripover](https://tripover.app)  
+- 🧑‍💻  The countries i ve been worked : United Kingdom, Brasil, Poland, Turkey
+  
+- 🔭  I’m currently working on [Tripover](https://tripover.app)  
 
-- 🎯  I’m currently learning Kubernetes and Cloud    
+- 🎯  I’m currently improving my skills on React Native    
   
 <br/>  
 
@@ -48,12 +50,6 @@ I feel lucky to had found chances to work with lots of lovely people from differ
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-  
-<br/>  
-
-
-## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=seration&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
 
 <br/>  
 
